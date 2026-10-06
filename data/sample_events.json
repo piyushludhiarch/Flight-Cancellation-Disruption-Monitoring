@@ -1,0 +1,22 @@
+[
+  {
+    "topic": "FLIGHT_DELAY",
+    "flight": "AI501",
+    "delay_minutes": 180
+  },
+  {
+    "topic": "WEATHER_ALERT",
+    "flight": "AI501",
+    "severity": "Severe"
+  },
+  {
+    "topic": "GATE_CHANGED",
+    "flight": "AI501",
+    "new_gate": "G12"
+  },
+  {
+    "topic": "FLIGHT_CANCELLED",
+    "flight": "AI502",
+    "reason": "Severe Weather"
+  }
+]
